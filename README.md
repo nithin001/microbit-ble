@@ -1,4 +1,4 @@
-# node-bbc-microbit
+# microbit-ble
 
 Control a [BBC micro:bit](https://www.microbit.co.uk/) from Node.js using BLE.
 
